@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Vikas Pal Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi there, I'm Vikas Pal 👋</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
 
