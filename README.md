@@ -74,7 +74,7 @@ Tools & Workflow
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐️ Feel free to check out my <a href="https://portfolio-vikas-pal.vercel.app/">portfolio</a>.</i>
+  <p>Thanks for visiting my profile! ⭐️ Feel free to check out my <a href="https://portfolio-vikas-pal.vercel.app/">portfolio</a>.</p>
 </p>
 
 <p align="center">
