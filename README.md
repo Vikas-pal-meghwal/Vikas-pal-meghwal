@@ -20,10 +20,17 @@
 </p>
 
 ---
-👨‍🏫   About Me
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
 
 ### 👨‍💻 About Me
+Passionate Web Developer | MERN Stack Specialist
+
+I build modern, responsive, and user-focused web and mobile applications using JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
+
+I love turning ideas into clean, functional products — and solving real-world problems through code.
+
+Over the past year, I've built full-stack web apps and React Native mobile apps, including offline-first applications and projects involving REST APIs, database design, authentication, file handling, and responsive UI development.
+
+Always exploring new tools and best practices to write better code and ship better products. Open to collaborating on interesting projects — let's connect!
 
 - 🔭 **Role:** Full Stack MERN Developer
 - 💼 **Portfolio:** [portfolio-vikas-pal.vercel.app](https://portfolio-vikas-pal.vercel.app/)
