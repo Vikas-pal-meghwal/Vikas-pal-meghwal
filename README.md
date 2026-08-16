@@ -2,6 +2,94 @@
   <img src="wave_top.svg" alt="Hi, I'm Vikas Pal" width="100%"/>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6D8CE8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Currently+Deep+in+React;Building+Things+I'd+Actually+Use;Turning+Coffee+into+Code" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikas-pal-meghwal&label=Profile%20Views&color=6d8ce8&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+### 👋 About Me
+
+I started with HTML and a lot of curiosity. Since then I've picked up TypeScript, React, Node.js, and MongoDB along the way, and I'm currently deep in building full-stack **MERN** applications end to end.
+
+- 🎯 **Goal:** Full-Stack Web Developer
+- 🌱 **Currently:** Sharpening React, Next.js and backend architecture
+- 🛠 **Focus:** Clean code, real projects, and shipping things that work
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vikas-pal-b327ba281/) | [Instagram](https://www.instagram.com/its.vikaspal/)
+- ⚡ **Fun fact:** I love building clean, scalable web apps end-to-end
+
+| Stage | Status |
+|---|---|
+| HTML | ✅ Done |
+| CSS | ✅ Done |
+| JavaScript (ES6+) | ✅ Done |
+| TypeScript | ✅ Done |
+| Git & GitHub | ✅ Done |
+| React.js | ✅ Done |
+| Node.js / Express | ✅ Done |
+| MongoDB | ✅ Done |
+| UI/UX Design | 🟡 In progress |
+| Next.js | 🟦 Up next |
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,figma,vscode" alt="Tech Stack"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **Bags** | TypeScript | Custom-bags — an e-commerce style build for custom product listings |
+| **Crescita** | TypeScript | An e-commerce website with product browsing and cart flow |
+| **Portfolio** | HTML/CSS/JS | My personal portfolio site — [live site →](https://portfolio-vikas-pal.vercel.app/) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-pal-meghwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikas's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Vikas-pal-meghwal&theme=tokyonight&hide_border=true" alt="Vikas's Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas-pal-meghwal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-pal-b327ba281/">
+    <img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vikas-pal-meghwal">
+    <img src="https://img.shields.io/badge/GITHUB-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/its.vikaspal/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-c026d3?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="wave_bottom.svg" alt="" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="wave_top.svg" alt="Hi, I'm Vikas Pal" width="100%"/>
+</p>
+
 <h3 align="center">💻 Full Stack MERN Developer &nbsp;|&nbsp; Building Things I'd Actually Use</h3>
 
 <p align="center">
@@ -13,6 +101,8 @@
 ### 👋 About Me
 
 I started with HTML and a lot of curiosity. Since then I've picked up TypeScript, React, Node.js, and MongoDB along the way, and I'm currently deep in building full-stack **MERN** applications end to end.
+
+I am a passionate Web Developer specializing in the MERN Stack, with hands-on experience building modern, responsive, and user-focused web and mobile applications. I work with JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS. Over the past year, I've built full-stack web applications and React Native mobile apps, including offline-first apps and projects involving APIs, databases, authentication, and file handling. I enjoy turning ideas into clean, functional products and solving real-world problems through technology. Every day, I want to learn something new and keep improving my craft as a developer.
 
 - 🎯 **Goal:** Full-Stack Web Developer
 - 🌱 **Currently:** Sharpening React, Next.js and backend architecture
