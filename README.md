@@ -3,12 +3,9 @@
 <img width="1080" height="380" alt="banner" src="https://github.com/user-attachments/assets/345c683b-953b-4c65-8091-7bc897433c90" />
 </p>
 
-<p align="center">
-  <img src="banner.svg" alt="Vikas Pal Banner" width="100%"/>
-</p>
 
-<h1 align="center">Hi there, I'm Vikas Pal 👋</h1>
-<h3 align="center">Full Stack MERN Developer</h3>
+<h1 align="">Hi there, I'm Vikas Pal 👋</h1>
+<h3 align="">Full Stack MERN Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-pal-b327ba281/">
