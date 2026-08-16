@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6D8CE8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Web+Developer" alt="Typing SVG" />
 </h3>
 
----
+<hr style="border: none; border-top: 1px solid #1a1a1a; margin: 20px 0 10px 0;" />
 ### 👋 About Me
 
 I am a passionate Web Developer specializing in the **MERN Stack**, with hands-on experience building modern, responsive, and user-focused web and mobile applications. I work with JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
