@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6D8CE8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Currently+Deep+in+React;Building+Things+I'd+Actually+Use;Turning+Coffee+into+Code" alt="Typing SVG" />
 </h3>
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Vikas-pal-meghwal&label=Profile%20Views&color=6d8ce8&style=flat" alt="Profile Views"/>
 </p>
 
