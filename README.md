@@ -22,15 +22,7 @@
 ---
 
 ### 👨‍💻 About Me
-Passionate Web Developer | MERN Stack Specialist
-
-I build modern, responsive, and user-focused web and mobile applications using JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS.
-
-I love turning ideas into clean, functional products — and solving real-world problems through code.
-
-Over the past year, I've built full-stack web apps and React Native mobile apps, including offline-first applications and projects involving REST APIs, database design, authentication, file handling, and responsive UI development.
-
-Always exploring new tools and best practices to write better code and ship better products. Open to collaborating on interesting projects — let's connect!
+I am a passionate Web Developer specializing in the MERN Stack, with hands-on experience building modern, responsive, and user-focused web and mobile applications. I work with JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS. Over the past year, I've built full-stack web applications and React Native mobile apps, including offline-first apps and projects involving APIs, databases, authentication, and file handling. I enjoy turning ideas into clean, functional products and solving real-world problems through technology. Every day, I want to learn something new and keep improving my craft as a developer.
 
 - 🔭 **Role:** Full Stack MERN Developer
 - 💼 **Portfolio:** [portfolio-vikas-pal.vercel.app](https://portfolio-vikas-pal.vercel.app/)
