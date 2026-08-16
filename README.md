@@ -1,3 +1,4 @@
+<img width="1400" height="260" alt="wave_top" src="https://github.com/user-attachments/assets/dae7bc14-05e8-42cd-be8a-96c3af0648ee" />
 <p align="center">
   <img src="wave_top.svg" alt="Hi, I'm Vikas Pal" width="100%"/>
 </p>
