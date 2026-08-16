@@ -78,12 +78,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-vikaspal&show_icons=true&theme=radical" alt="Vikas's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-vikaspal&theme=radical" alt="Vikas's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-pal-meghwal&show_icons=true&theme=radical" alt="Vikas's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-pal-meghwal&theme=radical" alt="Vikas's Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikaspal&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas-pal-meghwal&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
