@@ -1,7 +1,5 @@
 <img width="1400" height="260" alt="wave_top" src="https://github.com/user-attachments/assets/dae7bc14-05e8-42cd-be8a-96c3af0648ee" />
-<p align="center">
-  <img src="wave_top.svg" alt="Hi, I'm Vikas Pal" width="100%"/>
-</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6D8CE8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Currently+Deep+in+React;Building+Things+I'd+Actually+Use;Turning+Coffee+into+Code" alt="Typing SVG" />
