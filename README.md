@@ -1,4 +1,4 @@
-<img width="1400" height="260" alt="wave_top" src="https://github.com/user-attachments/assets/dae7bc14-05e8-42cd-be8a-96c3af0648ee" />
+<img width="1400" height="200" alt="wave_top (1)" src="https://github.com/user-attachments/assets/e4a0a010-40b6-4731-94f1-b33c0852cbbc" />
 
 
 <h3 align="center">
